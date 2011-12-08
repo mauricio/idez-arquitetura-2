@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Nossa loja!</title>
+<script src="/javascripts/jquery.js"></script>
+<script src="/javascripts/underscore.js"></script>
+<link href="/stylesheets/main.css"></link>
+
+<script>
+
+    var Templates = {};
+    var Produtos = {};
+    
+    Produtos.novoProdutoForm = function() {
+        
+    	  $( "#content" ).html( Templates.produtoForm() );
+    	  $( "#produto_form" ).submit( function() {   
+    	      $( "#produto_form_loader" ).show();
+    	      $.ajax( { 
+    	          url : "/api/produtos",
+    	          type: "POST",
+    	          data: $(this).serialize(),
+    	          success : function () {
+    	                  alert( "Salvou o produto!" );
+    	                  $( "#produto_form_loader" ).hide();
+    	                },
+    	          error : function () {
+    	                  alert( "Não salvou o produto!" );
+    	                  $( "#produto_form_loader" ).hide();
+    	                }
+    	          } );
+    	      
+    	      return false;
+    	  } );
+    	  
+    	    
+    	}
+    
+    Produtos.listarProdutos = function () {
+    	
+    $( "#content" ).html( "Carreando produtos..." );
+    $.ajax( { 
+    	   url : "/api/produtos",
+    	   type : "GET",
+    	   dataType : "json",
+    	   success : function( prods ) {
+    		   var conteudo = 
+    		    	   Templates.produtosList(
+    		    			   { "produtos" : prods});
+    		   $( "#content" ).html(conteudo);
+    		   
+    		   },
+    	   error : function () { 
+    		   alert("Não foi possível carregar produtos"); 
+    		   }
+    	} );
+    	
+    }
+    
+    jQuery( function( $ ) {
+		var produtoFormContent = 
+			$("#produto_form_template").html();
+		Templates.produtoForm = 
+			_.template( produtoFormContent );
+		
+		var produtosListContent = 
+			$("#produtos_list_template").html();
+		alert( produtosListContent );
+		Templates.produtosList = 
+			_.template( produtosListContent );
+		
+	  $("#novo_produto_link").click( 
+		Produtos.novoProdutoForm );
+	  $("#listar_produtos_link").click( 
+	    Produtos.listarProdutos );	
+    } );
+
+</script>
+
+</head>
+<body>
+	<h1>Bem vindo a nossa loja!</h1>
+	<ul>
+	   <li>
+			<a href="javascript:void(0)" 
+			     id="novo_produto_link">
+			    Novo Produto    
+			</a>
+	   </li>
+	   <li>
+            <a href="javascript:void(0)" 
+                 id="listar_produtos_link">
+                Listar Produtos
+            </a>	       
+	   </li>
+	</ul>
+	<div id="content">
+	   Carregando conteúdo.
+	</div>
+	<div class="hidden">
+<script 
+    type="text/template" 
+    id="produto_form_template">
+    <form id="produto_form">
+        <img 
+            src="/ajax-loader.gif" 
+            class="hidden"
+            id="produto_form_loader"
+            style="display:none;"
+        />
+        <p>
+            Nome: <input type="text" name="nome"/>
+        </p>
+        <p> Descrição: <br/> 
+            <textarea name="descricao"/> </p>
+        <p>
+            Preço: <input type="text" name="preco"/>
+        </p>
+        <p>
+            <input type="submit" value="Enviar"/>
+        </p>          
+    </form>            
+</script>
+
+<script type="text/template" 
+        id="produtos_list_template">
+    <ul>
+<% _.each( produtos, function ( produto ) { %>
+  <li> <%= produto.nome %> - <%= produto.preco %> </li>
+<% }); %> 
+    </ul>
+</script>
+	   
+	</div>
+</body>
+</html>

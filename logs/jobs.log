@@ -1,0 +1,887 @@
+ WARN [qtp1562190035-23 - /] (LoggingFilter.java:60) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 03:39:44 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp1562190035-17 - /javascripts/jquery.js] (LoggingFilter.java:60) - 
+Request: GET /javascripts/jquery.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 02:48:19 GMT
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp1562190035-19 - /javascripts/underscore.js] (LoggingFilter.java:60) - 
+Request: GET /javascripts/underscore.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 02:49:31 GMT
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp1562190035-22 - /favicon.ico] (LoggingFilter.java:60) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp456335625-20 - /api/application.wadl] (LoggingFilter.java:58) - 
+Request: GET /api/application.wadl
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp456335625-22 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp456335625-22 - /api/hello] (LoggingFilter.java:58) - 
+Request: GET /api/hello
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp456335625-23 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ERROR [main] (TestContextManager.java:324) - Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@42143753] to prepare test instance [br.com.faculdadeidez.loja.db.JPAProdutosRepositoryTest@3d3c4c09]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.TestContext.getApplicationContext(TestContext.java:308)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:321)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:211)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:231)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:174)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'produtosRepository': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire method: public void br.com.faculdadeidez.loja.db.JPAProdutosRepository.setManager(javax.persistence.EntityManager); nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No matching bean of type [javax.persistence.EntityManager] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:288)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1074)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:192)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:895)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:425)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:84)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:1)
+	at org.springframework.test.context.TestContext.loadApplicationContext(TestContext.java:280)
+	at org.springframework.test.context.TestContext.getApplicationContext(TestContext.java:304)
+	... 24 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire method: public void br.com.faculdadeidez.loja.db.JPAProdutosRepository.setManager(javax.persistence.EntityManager); nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No matching bean of type [javax.persistence.EntityManager] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:595)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:84)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:285)
+	... 38 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No matching bean of type [javax.persistence.EntityManager] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:924)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:793)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:707)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:553)
+	... 40 more
+ WARN [qtp178369767-29 - /api/application.wadl] (LoggingFilter.java:58) - 
+Request: GET /api/application.wadl
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 11:47:03 GMT-03:00
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 13:20:17 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /javascripts/underscore.js] (LoggingFilter.java:58) - 
+Request: GET /javascripts/underscore.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 02:49:31 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-24 - /javascripts/jquery.js] (LoggingFilter.java:58) - 
+Request: GET /javascripts/jquery.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 02:48:19 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 18:53:08 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-24 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 18:53:08 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-24 - /javascripts/jquery.js] (LoggingFilter.java:58) - 
+Request: GET /javascripts/jquery.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 02:48:19 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /javascripts/underscore.js] (LoggingFilter.java:58) - 
+Request: GET /javascripts/underscore.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 02:49:31 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 18:55:31 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /api/produtos] (LoggingFilter.java:58) - 
+Request: POST /api/produtos
+Headers:
+X-Requested-With: XMLHttpRequest
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Content-Length: 39
+Content-Type: application/x-www-form-urlencoded
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Origin: http://localhost:8080
+Parameters:
+
+
+ WARN [qtp178369767-31 - /api/produtos] (LoggingFilter.java:58) - 
+Request: GET /api/produtos
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-28 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /api/application.wadl] (LoggingFilter.java:58) - 
+Request: GET /api/application.wadl
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 15:11:50 GMT-03:00
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-29 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-24 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 19:12:54 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /ajax-loader.gif] (LoggingFilter.java:58) - 
+Request: GET /ajax-loader.gif
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-24 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 19:52:22 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /javascripts/jquery.js] (LoggingFilter.java:58) - 
+Request: GET /javascripts/jquery.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 02:48:19 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-29 - /javascripts/underscore.js] (LoggingFilter.java:58) - 
+Request: GET /javascripts/underscore.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 02:49:31 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /ajax-loader.gif] (LoggingFilter.java:58) - 
+Request: GET /ajax-loader.gif
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 19:47:38 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /api/produtos] (LoggingFilter.java:58) - 
+Request: POST /api/produtos
+Headers:
+X-Requested-With: XMLHttpRequest
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Content-Length: 37
+Content-Type: application/x-www-form-urlencoded
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Origin: http://localhost:8080
+Parameters:
+
+
+ WARN [qtp178369767-28 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 19:54:21 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-29 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /api/produtos] (LoggingFilter.java:58) - 
+Request: GET /api/produtos
+Headers:
+X-Requested-With: XMLHttpRequest
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-29 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 20:05:00 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-29 - /api/produtos] (LoggingFilter.java:58) - 
+Request: GET /api/produtos
+Headers:
+X-Requested-With: XMLHttpRequest
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 20:21:56 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-29 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 20:21:56 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /api/produtos] (LoggingFilter.java:58) - 
+Request: GET /api/produtos
+Headers:
+X-Requested-With: XMLHttpRequest
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-28 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 20:22:22 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-29 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-27 - /api/produtos] (LoggingFilter.java:58) - 
+Request: GET /api/produtos
+Headers:
+X-Requested-With: XMLHttpRequest
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-28 - /] (LoggingFilter.java:58) - 
+Request: GET /
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Sat, 26 Nov 2011 20:22:22 GMT
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /javascripts/underscore.js] (LoggingFilter.java:58) - 
+Request: GET /javascripts/underscore.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 02:49:31 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-30 - /javascripts/jquery.js] (LoggingFilter.java:58) - 
+Request: GET /javascripts/jquery.js
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Sat, 26 Nov 2011 02:48:19 GMT
+Referer: http://localhost:8080/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
+ WARN [qtp178369767-31 - /favicon.ico] (LoggingFilter.java:58) - 
+Request: GET /favicon.ico
+Headers:
+Cookie: _development_office_drop_session_id=6f14558c1c789a6a1a343a01a2bde0bf
+Host: localhost:8080
+Accept: */*
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Connection: keep-alive
+Accept-Encoding: gzip,deflate,sdch
+Parameters:
+
+
